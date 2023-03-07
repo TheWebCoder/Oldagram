@@ -1,2 +1,2 @@
 # Oldagram
-Oldagram is a social media platform with a vintage look and feel.
+Oldagram is a social media platform with a vintage look and feel. This project is a frontend web page created with HTML, CSS, and JavaScript. It displays three posts from different users including their avatars, names, locations, posts, comments, and likes. Users can click on the "Posts" button to view the posts. The posts are generated dynamically using JavaScript to loop through an array of posts data. The page is responsive and uses the normalize.css library to ensure consistency across different web browsers.
